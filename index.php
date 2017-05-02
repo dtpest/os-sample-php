@@ -1,4 +1,4 @@
 <?php
-  echo "<h1>Peter</h1>";
+  echo "<h1 style='text-align:center'>Peter</h1>";
   phpinfo();
 ?>
